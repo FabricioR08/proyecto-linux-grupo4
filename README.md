@@ -15,7 +15,7 @@ Proyecto de adminstracion de servidor linux con Docker, automatizacion y control
 ## Pasos de Instalación
 
 ### 1. Configuración del Sistema
-- Nombre del host: servidor-grupo6
+- Nombre del host: servidor-grupo4
 - Usuarios creados: adminsys, técnico, visitante
 - Grupos: soporte, web
 
